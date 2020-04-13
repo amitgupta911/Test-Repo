@@ -1,0 +1,16 @@
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\TempTokenPoc1.deps.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\TempTokenPoc1.runtimeconfig.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\TempTokenPoc1.runtimeconfig.dev.json
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\TempTokenPoc1.dll
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\bin\Debug\netcoreapp2.1\TempTokenPoc1.pdb
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.csprojAssemblyReference.cache
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.RazorAssemblyInfo.cache
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.RazorAssemblyInfo.cs
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.AssemblyInfoInputs.cache
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.AssemblyInfo.cs
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.RazorTargetAssemblyInfo.cache
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.dll
+D:\Projects\VSProjects\FirstProgram\TempTokenPoc1\obj\Debug\netcoreapp2.1\TempTokenPoc1.pdb
